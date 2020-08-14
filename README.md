@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on https://github.com/BobAnkh/add-contributors
 - 🌱 I’m currently learning Machine Learning and DevOps(NoOps)
 - 👯 I’m looking to collaborate on Automation(NoOps)
-- 🤔 I’m looking for help with a job
-- 💬 Ask me about Entrepeneurship, Lean Startup, OKRs
+- 🤔 I’m looking for a job
+- 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs,
 - 📫 How to reach me: phone:+506 8530 1569, email:eddy.valverde.garro@protomail.com
 
 - ⚡ Fun fact: ...
