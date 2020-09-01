@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on https://github.com/BobAnkh/add-contributors
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Machine Learning and DevOps(NoOps)
 - 👯 I’m looking to collaborate on Automation(NoOps)
 - 🤔 I’m looking for a job
