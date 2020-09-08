@@ -21,4 +21,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs,
 - 📫 How to reach me: phone:+506 8530 1569, email:eddy.valverde.garro@gmail.com
 
-- ⚡ Fun fact: ...
+Technology agnostic, the right technology for the right solution.
+
+Quickly learn and master new technologies.
+
+Successful working in both team and self-directed settings.
+
+Worry to solve the problem, not the solution.
+
+
