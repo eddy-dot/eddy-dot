@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Machine Learning and DevOps(NoOps)
+- 🔭 I’m currently working on Django projects
+- 🌱 I’m currently learning DevOps(NoOps)
 - 👯 I’m looking to collaborate on Automation(NoOps)
 - 🤔 I’m looking for a job
 - 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs,
-- 📫 How to reach me: phone:+506 8530 1569, email:eddy.valverde.garro@protomail.com
+- 📫 How to reach me: phone:+506 8530 1569, email:eddy.valverde.garro@gmail.com
 
 - ⚡ Fun fact: ...
