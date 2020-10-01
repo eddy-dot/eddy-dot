@@ -27,6 +27,6 @@ Quickly learn and master new technologies.
 
 Successful working in both team and self-directed settings.
 
-Worry to solve the problem, not the solution.
+First solve the problem, the do the coding.
 
 
