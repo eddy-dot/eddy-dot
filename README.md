@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Django projects
+- 🔭 I’m currently working on Node.js projects
 - 🌱 I’m currently learning DevOps(NoOps)
 - 👯 I’m looking to collaborate on Automation(NoOps)
 - 🤔 I’m looking for a job
