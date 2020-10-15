@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on MEVN stack projects
+- 🔭 I’m currently working on MEVN stack projects (I'm a Full stack JavaScript developer)
 - 🌱 I’m currently learning Microservices and DevOps
 - 👯 I’m looking to collaborate on Automation(NoOps)
 - 🤔 I’m looking for a job
