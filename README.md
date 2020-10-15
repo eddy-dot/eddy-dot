@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Node.js projects and Molecular
-- 🌱 I’m currently learning DevOps(NoOps)
+- 🔭 I’m currently working on MEVN stack projects
+- 🌱 I’m currently learning Microservices and DevOps
 - 👯 I’m looking to collaborate on Automation(NoOps)
 - 🤔 I’m looking for a job
-- 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs,
-- 📫 How to reach me: phone:+506 8530 1569, email:eddy.valverde.garro@gmail.com
+- 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs, Node.js
+- 📫 How to reach me: phone:+506 8530 1569, email:3ddy.v4lverde@gmail.com
 
 Technology agnostic, the right technology for the right solution.
 
