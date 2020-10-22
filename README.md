@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+- :memo: I'm an undergraduate student at Universidad Estatal a Distancia
+- :book: Here is my [blog](https://eddy-dot.github.io)
+- 🔭 I’m currently working on this Node.js projects.
+- :pushpin: I'm currently researching on DevOps || NoOps
+- :email: Contact me through [emails](mailto:3ddyv4lverde@gmail.com)
+
 <!--
-**eddy-dot/eddy-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BobAnkh/BobAnkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,19 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on MEVN stack projects (I'm a Full stack JavaScript developer)
-- 🌱 I’m currently learning Microservices and DevOps
-- 👯 I’m looking to collaborate on Automation(NoOps)
-- 🤔 I’m looking for a job
-- 💬 Ask me about Docker, Postgres, Entrepeneurship, Lean Startup, OKRs, Node.js
-- 📫 How to reach me: phone:+506 8530 1569, email:3ddy.v4lverde@gmail.com
 
-Technology agnostic, the right technology for the right solution.
-
-Quickly learn and master new technologies.
-
-Successful working in both team and self-directed settings.
-
-First solve the problem, the do the coding.
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eddy-dot&show_icons=true" alt="eddy-dot's Github Stat" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy-dot" alt="<ost Used Languages" />
+</a>
