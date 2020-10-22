@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - :memo: I'm an undergraduate student at Universidad Estatal a Distancia
+- :yt: Here is my [channel](https://youtube.com/channel/UC_HB3F-Xjwlc_lrzLVAalyg)
 - :book: Here is my [blog](https://eddy-dot.github.io)
 - 🔭 I’m currently working on this Node.js projects.
 - :pushpin: I'm currently researching on DevOps || NoOps
