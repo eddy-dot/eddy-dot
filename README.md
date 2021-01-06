@@ -3,7 +3,11 @@
 - :memo: I'm an undergraduate student at Universidad Nacional de Costa Rica
 - 📺 Here is my [YouTube channel](https://youtube.com/channel/UC_HB3F-Xjwlc_lrzLVAalyg)
 - :book: Here is my [blog](https://eddy-dot.github.io)
-- 🔭 I’m currently working on .NET Core + React proyects.
+-	:man_student: Certification Path:
+	-	:bearded_person: Azure Administrator Asociate
+	-	:infinity: Azure Devops Engineer Expert
+	-	:chart_with_upwards_trend: Azure Data Analist Asociate
+- 🔭 I’m currently working on Infrastructure as Code proyects.
 - :pushpin: I'm currently researching on DevOps || NoOps
 - :email: Contact me through [emails](mailto:3ddyv4lverde@gmail.com)
 
