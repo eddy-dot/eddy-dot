@@ -4,10 +4,10 @@
 - 📺 Here is my [YouTube channel](https://youtube.com/channel/UC_HB3F-Xjwlc_lrzLVAalyg)
 - :book: Here is my [blog](https://eddy-dot.github.io)
 -	:man_student: Certification Path:
-	-	:bearded_person: [Azure Administrator Asociate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
-	-	:infinity: [Azure Devops Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
-	-	:chart_with_upwards_trend: [Azure Data Analist Asociate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate)
-	-	:man_technologist: [Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
+	-	:bearded_person: [Azure Administrator Asociate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator) Status: Studying
+	-	:infinity: [Azure Devops Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer) Status: Not Started
+	-	:chart_with_upwards_trend: [Azure Data Analist Asociate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate) Status: Not Started
+	-	:man_technologist: [Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty) Status: Not Started
 - 🔭 I’m currently working on Infrastructure as Code proyects.
 - :pushpin: I'm currently researching on DevOps || NoOps
 - :email: Contact me through [emails](mailto:3ddyv4lverde@gmail.com)
