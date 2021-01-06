@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- :memo: I'm an undergraduate student at Universidad Nacional de Costa Rica
 - 📺 Here is my [YouTube channel](https://youtube.com/channel/UC_HB3F-Xjwlc_lrzLVAalyg)
 - :book: Here is my [blog](https://eddy-dot.github.io)
 -	:man_student: Certification Path:
