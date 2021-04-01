@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eddy-dot&show_icons=true" alt="eddy-dot's Github Stat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eddygarros&show_icons=true" alt="eddy-dot's Github Stat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy-dot" alt="<ost Used Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarros" alt="<ost Used Languages" />
 </a>
